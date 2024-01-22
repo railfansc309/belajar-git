@@ -1,1 +1,2 @@
 belajar github dari nol
+mencoba membuat commit ke dua
