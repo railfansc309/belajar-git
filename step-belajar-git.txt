@@ -1,1 +1,4 @@
 berikut ini adalah step dalam belajat git
+- membuat akun github
+- membuat repositori baru
+- mencoba commit
